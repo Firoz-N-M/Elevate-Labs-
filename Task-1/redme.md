@@ -14,5 +14,5 @@
 ## Deliverables
 - Cleaned dataset: `marketing_campaign_cleaned.csv`
 - Jupyter Notebook with cleaning process
-- README.md summary
+
 
