@@ -78,12 +78,4 @@ This project provides an interactive dashboard for analyzing **Super Store Sales
 - Sales are concentrated in **major US states**.  
 - Strong clusters are visible in the **East and West coasts**.  
 
----
-
-## ✅ Key Takeaways  
-- **Consumer segment** and **West region** are the biggest contributors to sales.  
-- **Office Supplies** and **Phones** are the top-selling categories.  
-- **Profit shows volatility**, indicating areas for cost optimization or pricing adjustments.  
-
----
 
