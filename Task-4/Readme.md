@@ -39,7 +39,3 @@ This project focuses on **data exploration, cleaning, and analysis** of Zepto pr
 - Measured potential revenue contribution by product categories.  
 - Classified products based on weight to better understand inventory distribution.  
 
----
-
-⚡ This project demonstrates **SQL skills in data exploration, cleaning, and generating business insights** from raw product data.  
-
